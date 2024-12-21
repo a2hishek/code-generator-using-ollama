@@ -1,0 +1,3 @@
+.env
+codegen/
+__pycache__/
